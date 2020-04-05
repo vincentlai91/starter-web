@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vincent Lai, vincent.lai@ncs.com.sg
 
 # THANKS
 
